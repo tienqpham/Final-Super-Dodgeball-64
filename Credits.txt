@@ -1,0 +1,19 @@
+Credits
+
+Programming: Harrison Malloy, Tien Pham, Austin Tauer, Nicholas Riebel
+Art: Harrison Malloy
+
+Music and Sound Effects:
+Title Song: https://opengameart.org/content/calm-and-simple-title-music
+	"Clicky"
+	from Electronic (2018)
+	by Manuel Senfft (www.tagirijus.de)
+Game song: https://opengameart.org/content/battle-theme-a
+	"Hard Fight"
+	from Hard (2018)
+	by Manuel Senfft (www.tagirijus.de)
+balls colliding: https://opengameart.org/content/bombexplosion8bit
+throwing ball: https://opengameart.org/content/sfxthrow - copyright Blender Foundation : apricot.blender.org : throwing sound effect from Yo Frankie! game
+border song: https://opengameart.org/content/short-alarm
+getting hit by ball: https://opengameart.org/content/grunt author: n3b
+

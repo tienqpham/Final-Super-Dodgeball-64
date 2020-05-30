@@ -1,0 +1,647 @@
+{
+    "missing": {
+        "path": "./assets/img/missing.png"
+    },
+    
+  "targetBlue": {
+        "path":  "./assets/img/targetBlue.png"
+  },
+
+
+
+
+    "gamepad_select":{
+        "path":"./assets/img/gamepad_selection.png"
+    },
+
+    "gamepad_instruction":{
+        "path":"./assets/img/gamepad_instructions.png"
+    },
+
+    "keyboard_select":{
+        "path":"./assets/img/keyboard_selection.png"
+    },
+
+    "keyboard_instruction":{
+        "path":"./assets/img/keyboard_instructions.png"
+    },
+    
+    "howtoplay":{
+      "path":"./assets/img/howtoplay.png"
+    },
+    
+    
+    "title":{
+      "path":"./assets/img/title.png"
+    },
+    
+    "quit_green_off":{
+      "path":"./assets/img/quit_green_off.png"
+    },
+    
+    "quit_green_on":{
+      "path":"./assets/img/quit_green_on.png"
+    },
+    
+    "resume_green_on":{
+      "path":"./assets/img/resume_green_on.png"
+    },
+    
+    "resume_green_off":{
+      "path":"./assets/img/resume_green_off.png"
+    },
+
+
+
+    "quit_red_off":{
+      "path":"./assets/img/quit_red_off.png"
+    },
+    "quit_red_on":{
+      "path":"./assets/img/quit_red_on.png"
+    },
+    "practice_red_off":{
+      "path":"./assets/img/practice_red_off.png"
+    },
+    "practice_red_on":{
+      "path":"./assets/img/practice_red_on.png"
+    },
+    "howToPlay_red_off":{
+      "path":"./assets/img/howtoplay_red_off.png"
+    },
+    "howToPlay_red_on":{
+      "path":"./assets/img/howtoplay_red_on.png"
+    },
+    "versus_split_off":{
+      "path":"./assets/img/versus_split_off.png"
+    },
+    "versus_split_on":{
+      "path":"./assets/img/versus_split_on.png"
+    },
+    "soccer_split_off":{
+      "path":"./assets/img/soccer_split_off.png"
+    },
+    "soccer_split_on":{
+      "path":"./assets/img/soccer_split_on.png"
+    },
+    "credits_red_off":{
+      "path":"./assets/img/credits_red_off.png"
+    },
+    "credits_red_on":{
+      "path":"./assets/img/credits_red_on.png"
+    },
+    
+    
+    
+    "ready1_off":{
+      "path":"./assets/img/ready_red_off.png"
+    },
+    
+    "ready1_on":{
+      "path":"./assets/img/ready_red_on.png"
+    },
+    
+    "ready2_off":{
+      "path":"./assets/img/ready_blue_off.png"
+    },
+    
+    "ready2_on":{
+      "path":"./assets/img/ready_blue_on.png"
+    },
+    
+    "round1":{
+      "path":"./assets/img/Round1.png"
+    },
+    "round2":{
+      "path":"./assets/img/Round2.png"
+    },
+    "finalRound":{
+      "path":"./assets/img/FinalRound.png"
+    },
+    "ready":{
+      "path":"./assets/img/Ready.png"
+    },
+    "go":{
+      "path":"./assets/img/GO.png"
+    },
+    
+    "time":{
+      "path":"./assets/img/Time.png"
+    },
+    
+    "knockout":{
+      "path":"./assets/img/knockout.png"
+    },
+    
+    "player1_wins":{
+      "path":"./assets/img/player1wins.png"
+    },
+    "player2_wins":{
+      "path":"./assets/img/player2wins.png"
+    },
+    
+    "draw_game":{
+      "path":"./assets/img/draw.png"
+    },
+    
+    
+    
+    "health_blue_5of5":{
+      "path":"./assets/img/healthBlue_5of5.png"
+    },
+    
+    "health_blue_4of5":{
+      "path":"./assets/img/healthBlue_4of5.png"
+    },
+    
+    "health_blue_3of5":{
+      "path":"./assets/img/healthBlue_3of5.png"
+    },
+    
+    "health_blue_2of5":{
+      "path":"./assets/img/healthBlue_2of5.png"
+    },
+    
+    "health_blue_1of5":{
+      "path":"./assets/img/healthBlue_1of5.png"
+    },
+    
+    "health_blue_0of5":{
+      "path":"./assets/img/healthBlue_0of5.png"
+    },
+    
+    
+    
+    
+    
+    "health_red_5of5":{
+      "path":"./assets/img/healthRed_5of5.png"
+    },
+    
+    "health_red_4of5":{
+      "path":"./assets/img/healthRed_4of5.png"
+    },
+    
+    "health_red_3of5":{
+      "path":"./assets/img/healthRed_3of5.png"
+    },
+    
+    "health_red_2of5":{
+      "path":"./assets/img/healthRed_2of5.png"
+    },
+    
+    "health_red_1of5":{
+      "path":"./assets/img/healthRed_1of5.png"
+    },
+    
+    "health_red_0of5":{
+      "path":"./assets/img/healthRed_0of5.png"
+    },
+
+
+
+    "shield_red":{
+      "path":"./assets/img/shield_red.png"
+    },
+
+    "shield_blue":{
+      "path":"./assets/img/shield_blue.png"
+    },
+
+
+
+    "paused":{
+        "path":"./assets/img/paused.png"
+    },
+
+    "basketBallCourt":{
+        "path":"./assets/img/basketBallCourt.png"
+    },
+
+    "basketBallCourt_dark":{
+        "path":"./assets/img/basketBallCourtDark.png"
+    },
+  
+    "titlemusic": {
+	"path": "./assets/music/Tagirijus_03_Clicky.ogg"
+    },
+	
+    "gamemusic": {
+	"path": "./assets/music/Tagirijus_04_Hard_Fight.ogg"
+    },
+  
+    "hitting": {
+	"path": "./assets/sfx/ballHit.ogg"
+    },
+  
+    "colliding": {
+	"path": "./assets/sfx/ballColliding.ogg"
+    },
+  
+    "shooting": {
+	"path": "./assets/sfx/shooting.ogg"
+    },
+  
+    "border": {
+	"path": "./assets/sfx/hittingBorder.ogg"
+    },
+
+    "soccerBall":{
+        "path":"./assets/img/soccerBall.png"
+    },
+
+    "soccerField":{
+        "path":"./assets/img/soccerField.png"
+    },
+  
+    "player1": {
+        "path": "./assets/img/player1.png"
+    },
+
+    "player2": {
+        "path": "./assets/img/player2.png"
+    },
+
+    "ball": {
+        "path": "./assets/img/ball.png"
+    },
+
+    "reticle1": {
+        "path": "./assets/img/reticleRed.png"
+    },
+
+    "reticle2": {
+        "path": "./assets/img/reticleBlue.png"
+    },
+
+    "ball1": {
+        "path": "./assets/img/ballRed.png"
+    },
+
+    "ball2": {
+        "path": "./assets/img/ballBlue.png"
+    },
+    
+    
+    "timerFrame":{
+      "path":"./assets/img/timerFrame.png"
+    },
+    
+    
+	"digital0": {
+	  "path": "./assets/img/digital0.png"
+	},
+	"digital1": {
+	  "path": "./assets/img/digital1.png"
+	},
+	"digital2": {
+	  "path": "./assets/img/digital2.png"
+	},
+	"digital3": {
+	  "path": "./assets/img/digital3.png"
+	},
+	"digital4": {
+	  "path": "./assets/img/digital4.png"
+	},
+	"digital5": {
+	  "path": "./assets/img/digital5.png"
+	},
+	"digital6": {
+	  "path": "./assets/img/digital6.png"
+	},
+	"digital7": {
+	  "path": "./assets/img/digital7.png"
+	},
+	"digital8": {
+	  "path": "./assets/img/digital8.png"
+	},
+	"digital9": {
+	  "path": "./assets/img/digital9.png"
+	},
+	
+	
+	
+	"normal_practice": {
+	  "path": "./assets/sfx/practice.ogg"
+	},
+	
+    "normal_areyouready":{
+    	"path": "./assets/sfx/areyouready_normal.ogg"
+    },
+    
+    "normal_areyouready2":{
+        "path": "./assets/sfx/areyouready2_normal.ogg"
+    },
+    
+    "normal_battleofthecentury":{
+        "path": "./assets/sfx/battleofthecentury_normal.ogg"
+    },
+    
+    "normal_dodgeorbedodge":{
+        "path": "./assets/sfx/dodgeorbedodge_normal.ogg"
+    },
+    
+    "normal_doordodge":{
+        "path": "./assets/sfx/doordodge_normal.ogg"
+    },
+    
+    "normal_faceitstraight":{
+        "path": "./assets/sfx/faceitstraight_normal.ogg"
+    },
+    
+    "normal_fightfortheages":{
+        "path": "./assets/sfx/fightfortheages_normal.ogg"
+    },
+    
+    "normal_finalround":{
+        "path": "./assets/sfx/finalround_normal.ogg"
+    },
+    
+    "normal_getready":{
+        "path": "./assets/sfx/getready_normal.ogg"
+    },
+    
+    "normal_goforbroke":{
+        "path": "./assets/sfx/goforbroke_normal.ogg"
+    },
+    
+    "normal_goforit":{
+    	"path": "./assets/sfx/goforit_normal.ogg"
+    },
+    
+    "normal_goforitman":{
+        "path": "./assets/sfx/goforitman_normal.ogg"
+    },
+    
+    "normal_heycomeon":{
+        "path": "./assets/sfx/heycomeon_normal.ogg"
+    },
+    
+    "normal_heystepitup":{
+        "path": "./assets/sfx/heystepitup_normal.ogg"
+    },
+    
+    "normal_Icantbelievemyeyes":{
+        "path": "./assets/sfx/Icantbelievemyeyes_normal.ogg"
+    },
+    
+    "normal_itsnotover":{
+        "path": "./assets/sfx/itsnotover_normal.ogg"
+    },
+    
+    "normal_knockout":{
+        "path": "./assets/sfx/knockout_normal.ogg"
+    },
+    
+    "normal_leaveamark":{
+        "path": "./assets/sfx/leaveamark_normal.ogg"
+    },
+    
+    "normal_leaveamark2":{
+        "path": "./assets/sfx/leaveamark2_normal.ogg"
+    },
+    
+    "normal_letloose":{
+        "path": "./assets/letloose_normal.ogg"
+    },
+    
+    "normal_letsparty":{
+        "path": "./assets/sfx/letsparty_normal.ogg"
+    },
+    
+    "normal_neverseenabattle":{
+        "path": "./assets/sfx/neverseenabattle_normal.ogg"
+    },
+    
+    "normal_noholdbard":{
+        "path": "./assets/sfx/noholdbard_normal.ogg"
+    },
+    
+    "normal_nosecondchance":{
+        "path": "./assets/sfx/nosecondchance_normal.ogg"
+    },
+	
+    "normal_player1wins":{
+        "path": "./assets/sfx/player1wins_normal.ogg"
+    },
+	
+    "normal_player2wins":{
+        "path": "./assets/sfx/player2wins_normal.ogg"
+    },
+	
+    "normal_round1":{
+        "path": "./assets/sfx/round1_normal.ogg"
+    },
+	
+    "normal_round2":{
+        "path": "./assets/sfx/round2_normal.ogg"
+    },
+	
+    "normal_round3":{
+        "path": "./assets/sfx/round3_normal.ogg"
+    },
+	
+    "normal_round4":{
+        "path": "./assets/sfx/round4_normal.ogg"
+    },
+	
+    "normal_straight":{
+        "path": "./assets/sfx/straight_normal.ogg"
+    },
+	
+    "normal_warmingup":{
+        "path": "./assets/sfx/warmingup_normal.ogg"
+    },
+	
+    "normal_youcantgiveitup":{
+        "path": "./assets/sfx/youcantgiveitup_normal.ogg"
+    },
+	
+	"normal_weawaityourreturn":{
+		"path": "./assets/sfx/weawaityourreturn.ogg"
+	},
+	
+	"normal_weawaityourreturn2":{
+		"path": "./assets/sfx/weawaityourreturn2.ogg"
+	},
+	
+	"normal_vs":{
+		"path": "./assets/sfx/vs.ogg"
+	},
+	
+	"normal_soccer":{
+		"path": "./assets/sfx/soccer.ogg"
+	},
+	
+	"normal_pratice":{
+		"path": "./assets/sfx/pratice.ogg"
+	},
+	
+	"normal_solong":{
+		"path": "./assets/sfx/solong.ogg"
+	},
+	
+	"normal_seeyoulater":{
+		"path": "./assets/sfx/seeyoulater.ogg"
+	},
+	
+	"normal_comebacksoon":{
+		"path": "./assets/sfx/comebacksoon.ogg"
+	},
+	
+	"normal_drawgame":{
+		"path": "./assets/sfx/drawgame.ogg"
+	},
+	
+	"normal_timeup":{
+		"path": "./assets/sfx/timeup.ogg"
+	},
+	
+	"normal_time":{
+		"path": "./assets/sfx/time.ogg"
+	},
+	
+	"normal_letsgo":{
+		"path": "./assets/sfx/letsgo.ogg"
+	},
+	
+	"normal_flawless":{
+		"path": "./assets/sfx/flawless.ogg"
+	},
+	
+	"normal_perfect":{
+		"path": "./assets/sfx/perfect.ogg"
+	},
+	
+	"normal_knowledgeispower":{
+		"path": "./assets/sfx/knowledgeispower.ogg"
+	},
+	
+	"normal_readup":{
+		"path": "./assets/sfx/readup.ogg"
+	},
+	
+	"normal_checkitout":{
+		"path": "./assets/sfx/checkitout.ogg"
+	},
+	
+	
+	
+	
+    "manly_betterwarmup":{
+        "path": "./assets/sfx/betterwarmup_manly.ogg"
+    },
+	
+    "manly_brutal":{
+        "path": "./assets/sfx/brutal_manly.ogg"
+    },
+	
+    "manly_comeon":{
+        "path": "./assets/sfx/comeon_manly.ogg"
+    },
+	
+    "manly_directhit":{
+        "path": "./assets/sfx/directhit_manly.ogg"
+    },
+	
+    "manly_dodge":{
+        "path": "./assets/sfx/dodge_manly.ogg"
+    },
+	
+    "manly_dodgeordie":{
+        "path": "./assets/sfx/dodgeordie_manly.ogg"
+    },
+	
+    "manly_fight":{
+        "path": "./assets/sfx/fight_manly.ogg"
+    },
+	
+    "manly_finalround":{
+        "path": "./assets/sfx/finalround_manly.ogg"
+    },
+	
+    "manly_getiton":{
+        "path": "./assets/sfx/getiton_manly.ogg"
+    },
+	
+    "manly_headshot":{
+        "path": "./assets/sfx/headshot_manly.ogg"
+    },
+	
+    "manly_hellyeah":{
+        "path": "./assets/sfx/hellyeah_manly.ogg"
+    },
+	
+    "manly_holdingback":{
+        "path": "./assets/sfx/holdingback_manly.ogg"
+    },
+	
+    "manly_instantkill":{
+        "path": "./assets/sfx/instantkill_manly.ogg"
+    },
+	
+    "manly_justawarmup":{
+        "path": "./assets/sfx/justawarmup_manly.ogg"
+    },
+	
+    "manly_knockout":{
+        "path": "./assets/sfx/knockout_manly.ogg"
+    },
+	
+    "manly_letdie":{
+        "path": "./assets/sfx/letdie_manly.ogg"
+    },
+	
+    "manly_notdone":{
+        "path": "./assets/sfx/notdone_manly.ogg"
+    },
+	
+    "manly_onelives":{
+        "path": "./assets/sfx/onelives_manly.ogg"
+    },
+	
+    "manly_onelives2":{
+        "path": "./assets/sfx/onelives2_manly.ogg"
+    },
+	
+    "manly_onlyone":{
+        "path": "./assets/sfx/onlyone_manly.ogg"
+    },
+	
+    "manly_payback":{
+        "path": "./assets/sfx/payback_manly.ogg"
+    },
+	
+    "manly_player1wins":{
+        "path": "./assets/sfx/player1wins_manly.ogg"
+    },
+	
+    "manly_player2wins":{
+        "path": "./assets/sfx/player2wins_manly.ogg"
+    },
+	
+    "manly_round1":{
+        "path": "./assets/sfx/round1_manly.ogg"
+    },
+	
+    "manly_round2":{
+        "path": "./assets/sfx/round2_manly.ogg"
+    },
+	
+    "manly_round3":{
+        "path": "./assets/sfx/round3_manly.ogg"
+    },
+	
+    "manly_round4":{
+        "path": "./assets/sfx/round4_manly.ogg"
+    },
+	
+    "manly_straight":{
+        "path": "./assets/sfx/straight_manly.ogg"
+    },
+	
+    "manly_tryharder":{
+        "path": "./assets/sfx/tryharder_manly.ogg"
+    }
+	
+}
+

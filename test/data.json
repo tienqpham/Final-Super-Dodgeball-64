@@ -1,0 +1,41 @@
+{
+    "missing": {
+        "path": "../assets/img/missing.png"
+    },
+
+    "soccerBall":{
+        "path":"../assets/img/soccerBall.png"
+    },
+
+    "soccerField":{
+        "path":"../assets/img/soccerField.png"
+    },
+
+    "player1": {
+        "path": "../assets/img/player1.png"
+    },
+
+    "player2": {
+        "path": "../assets/img/player2.png"
+    },
+
+    "ball": {
+        "path": "../assets/img/ball.png"
+    },
+
+    "reticle1": {
+        "path": "../assets/img/reticleRed.png"
+    },
+
+    "reticle2": {
+        "path": "../assets/img/reticleBlue.png"
+    },
+
+    "ball1": {
+        "path": "../assets/img/ballRed.png"
+    },
+
+    "ball2": {
+        "path": "../assets/img/ballBlue.png"
+    }
+}
